@@ -1,0 +1,102 @@
+---
+title: "Fiona Party"
+author: "Best TA ever"
+format: revealjs
+editor: visual
+---
+
+# Into
+
+Представити людей, про яких ви презентуєте.
+
+## Peter
+
+![](Fiona%20Party_files/peter123.jpg){fig-align="center"}
+
+## Misha
+
+![](Fiona%20Party_files/misha123.jpg){fig-align="center"}
+
+## Lesia
+
+![](Fiona%20Party_files/lesia1.jpg){fig-align="center"}
+
+# Загальний їх опис (чи вони класні).
+
+## Misha & Lesia
+
+![](Fiona%20Party_files/Grading%20MATH%20HW.mp4){fig-align="center"}
+
+## Peter
+
+Work hard, party harder, work the hardest after party!
+
+![](Fiona%20Party_files/peter0.jpg){fig-align="center"}
+
+## Peter
+
+![](Fiona%20Party_files/1.jpg){fig-align="center"}
+
+# Are they good at Stats?
+
+(Horovitz part)
+
+Misha - физмат
+
+Lesia - прикладмат
+
+Peter -
+
+# Animals
+
+З якою твариною асоціюються?
+
+## Misha & Lesia
+
+![](Fiona%20Party_files/meme1.jpg){fig-align="center"}
+
+## Peter
+
+![](Fiona%20Party_files/owl-hat.gif){fig-align="center"}
+
+# Pizza people
+
+Якщо ці люди були б піцами, якими б вони були?
+
+## Misha & Lesia
+
+Міша -
+
+Піца БЕЗ томатів та ананасу, з мясом та
+
+Леся -
+
+Піца з сиром та
+
+## Peter
+
+Дуже довга піца, з грушею, дорблю, моцареллою та брі)))
+
+# In 10 year
+
+Де ти їх бачиш через 10 років?
+
+## Lesia & Misha
+
+![](Fiona%20Party_files/My%20project-1.png){fig-align="center"}
+
+## Peter
+
+![](Fiona%20Party_files/7o0682.jpg){fig-align="center"}
+
+# Awesome classmates
+
+Чому вони круті одногрупники та за що ви їм вдячні
+
+## Lesia & Misha
+
+![](Fiona%20Party_files/20230522_233258.jpg){fig-align="center"}
+
+## Peter
+
+![](Fiona%20Party_files/peter12.jpg){fig-align="center"}

@@ -1,0 +1,103 @@
+---
+title: "Fiona Party"
+author: "Vadym + Mykyta"
+date: 02/06/2023
+format:
+  revealjs: 
+    slide-number: true
+    scrollable: true
+    logo: images/fiona.png
+---
+
+# Into
+
+Представити людей, про яких ви презентуєте.
+
+## Peter
+
+![](images/peter123.jpg){fig-align="center"}
+
+## Misha
+
+![](images/misha123.jpg){fig-align="center"}
+
+## Lesia
+
+![](images/lesia1.jpg){fig-align="center"}
+
+# Загальний їх опис (чи вони класні).
+
+# Так класні. Питання??
+
+## Misha & Lesia
+
+![](images/Grading%20MATH%20HW.mp4){fig-align="center"}
+
+## Peter
+
+Work hard, party harder, work the hardest after party!
+
+![](images/peter0.jpg){fig-align="center"}
+
+## Peter
+
+![](images/1.jpg){fig-align="center"}
+
+# Are they good at Stats?
+
+-   Misha - якби не був вже ТА, то став би ТА.
+
+-   Lesia - якби вчилась в KSE, то стала би ТА.
+
+-   Peter - якось один-єдиний підключився на ТА, ще й хворів. Які взагалі питання?
+
+# Animals
+
+З якою твариною асоціюються?
+
+## Misha & Lesia
+
+![](images/meme1.jpg){fig-align="center"}
+
+## Peter
+
+![](images/owl-hat.gif){fig-align="center"}
+
+# Pizza people
+
+Якщо ці люди були б піцами, якими б вони були?
+
+## Misha
+![](images/IMG_0642.JPG){fig-align="center"}
+
+## Lesia
+![](images/IMG_0641.JPG){fig-align="center"}
+
+
+## Peter
+
+![](images/IMG_0638.PNG){fig-align="center"}
+
+# In 10 year
+
+Де ти їх бачиш через 10 років?
+
+## Lesia & Misha
+
+![](images/My%20project-1.png){fig-align="center"}
+
+## Peter
+
+![](images/7o0682.jpg){fig-align="center"}
+
+# Awesome classmates
+
+Чому вони круті одногрупники та за що ви їм вдячні
+
+## Lesia & Misha
+
+![](images/20230522_233258.jpg){fig-align="center"}
+
+## Peter
+
+![](images/peter12.jpg){fig-align="center"}
